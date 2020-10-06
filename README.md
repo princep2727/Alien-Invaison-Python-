@@ -18,4 +18,4 @@
 #### the player’s ship or reaches the bottom of the screen, the player 
 #### loses a ship. If the player loses three ships, the game ends.
 
-![](images/
+![](demo%20video/demo.mp4)
