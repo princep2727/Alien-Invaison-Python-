@@ -18,6 +18,4 @@
 #### the player’s ship or reaches the bottom of the screen, the player 
 #### loses a ship. If the player loses three ships, the game ends.
 
-# ![](images/alien.png)
-
-# ![](images/ship.png)
+# ![](images/alien.png) ![](images/ship.png)
